@@ -1,0 +1,363 @@
+{
+  "albums": [
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/floatie-1622038848-330x330.jpeg",
+      "Album_name": "Floatie - Voyage Out (Exploding In Sound)",
+      "albumDescription": "Floatie are the kind of band whose members all need to be perfectly in sync in order to work. Thankfully, the Chicago four-piece presents a unified front on its debut album, Voyage Out, spinning out woozy, precise math-rock songs that are knotted but also pillowy soft. Sam Bern’s muffled vocals guide the band through emotions as complex as its arrangements, singing about disaffection and dysphoria with a sharp eye. —James Rettig",
+      "Rank": 50,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/parannoul-1622039640-330x330.jpeg",
+      "Album_name": "Parannoul - To See The Next Part Of The Dream (Self-Released)",
+      "albumDescription": "The anonymous Korean musician behind the surprise shoegaze breakout of 2021 sees his own hopes of success as outdated relics: “I want to leave a little trace of my own, no matter how stupid and anachronistic dream it may be,” he wrote. To See The Next Part Of The Dream — with its dully aching lyrics, maudlin piano, and tinny guitars — certainly feels out of step with contemporary rock. But rather than appearing passé, Parannoul evokes the nostalgic innocence of early ’00s emo, when synths were novel and innovations in home recording transformed 2AM ennui into melodic poetry. Like its creator, the record simmers with the simultaneous fear and desire of being known. —Arielle Gordon",
+      "Rank": 49,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/remembersports-1622039779-330x330.jpeg",
+      "Album_name": "Remember Sports - Like A Stone (Father/Daughter)",
+      "albumDescription": "Remember Sports have been cranking out ramshackle heart-on-sleeve indie-rock songs for almost a decade now, and Like A Stone is their most well-rounded album to date. Centered around Carmen Perry’s distinctive yowl, the band navigates the anxieties of adulthood with songs that sound like mini-panic attacks. But even more striking on their fourth album are the moments of resolute calm they manage to find among the emotional wreckage. —James",
+      "Rank": 48,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/topazjones-1622040113-330x330.jpeg",
+      "Album_name": "Topaz Jones - Don't Go Tellin' Your Momma (New Funk Academy/Black Canopy)",
+      "albumDescription": "On his sophomore album Don’t Go Tellin’ Your Momma, New Jersey-based musician Topaz Jones returns with funk-laden offerings of fond childhood introspection and self-discovery complete with guest spots by Leven Kali, Maxo, Phonte, and more. Backed with the velvety warmth of guitar instrumentation laced with rhapsodic production, Jones’ raspy vocals fit effortlessly within the album’s nostalgic seams. Accompanied by an audiovisual that was highlighted at SXSW and Sundance, Don’t Go Tellin’ Your Momma balances surrealism with expansive Black soundscapes. —Jaelani Turner-Williams",
+      "Rank": 47,
+      "Genre": "Hip Hop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/oliviarodrigo-1622040407-330x330.jpeg",
+      "Album_name": "Olivia Rodrigo - Sour (Geffen)",
+      "albumDescription": "“Drivers License” was a near-unprecedented phenomenon, a teenage heartbreak hymn with so much theatrical vitality that it instantly crashed the charts and became the year’s biggest hit. But “Drivers License” was not a fluke. Sour, the 18-year-old Disney star Olivia Rodrigo’s debut, is a full, expertly realized concept album about post-breakup anger and hurt and recrimination. Rodrigo’s focus isn’t limiting; it’s a measure of how something as simple as a breakup can be a world-ender at a certain point in your life. And it helps that Rodrigo knows how to put a song together — on Sour, even the ballads are bangers. —Tom Breihan",
+      "Rank": 46,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/fayewebster-1622040821-330x330.jpeg",
+      "Album_name": "Faye Webster - I Know I'm Funny haha (Secretly Canadian)",
+      "albumDescription": "Atlanta Millionaires Club, the third record by singer-songwriter Faye Webster, drew people in with its inexplicably funny album cover. There’s not too much humor in those songs, though; her ballads are known for their tenderness and intimacy, her voice like silk against quiet guitars or synths. The atmosphere of this new album I Know I’m Funny haha is even sharper, with bright keys, a romantic pedal steel, and a lot of jazzy moments. The comedy is still not obvious. It’s subtle, like when Webster repeats, “How did I fall in love with someone I don’t know?” on “A Dream With A Baseball Player.” Continuously, she harps on the way every intense feeling in the world is inherently ironic, and to laugh about it is to see the bright side of it. —Danielle Chelosky",
+      "Rank": 45,
+      "Genre": "Country"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/godshate-1622041096-330x330.jpeg",
+      "Album_name": "God's Hate - God's Hate (Closed Casket Activities)",
+      "albumDescription": "The Van Nuys hardcore band God’s Hate went five years without releasing an album, and there’s a very good reason for that: Frontman Brody King was too busy piledriving motherfuckers. King is one of the best pro wrestlers on America’s indie scene, and his surging career made it hard for him to devote a lot of time to his brutalist mosh-music side hustle. But the pandemic opened up King’s schedule, so he reconvened with the Young brothers, inescapable figures on the West Coast hardcore scene, to make another slab of disrespectful juddering rippers about the importance of killing Nazis. There’s nothing fancy about God’s Hate’s version of metallic hardcore, and it hits like an elbow to the jaw. —Tom",
+      "Rank": 44,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/dawnrichard-1622041270-330x330.jpeg",
+      "Album_name": "Dawn Richard - Second Line (Merge)",
+      "albumDescription": "Breathing new life into her hometown of New Orleans on new album Second Line, former Bad Boy Records darling Dawn Richard makes way for progressive Black women artists with an electronic nod to Afrofuturism. With partial narration by her mother, Richard embodies the persona of animated alter ego King Creole, seamlessly balancing high energy and vulnerability through deep house-centric grooves and alluring ballads. Shedding the expectations of R&B and hip-hop, Richard battles the mainstream status quo as an independent artist while paying homage to the liveliness of Black Southern music. —Jaelani",
+      "Rank": 43,
+      "Genre": "R&B"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/clairerousay-1622041551-330x330.jpeg",
+      "Album_name": "Claire Rousay - A Softer Focus (American Dreams)",
+      "albumDescription": "In her influential book Deep Listening: A Composer’s Sound Practice, Pauline Oliveros describes the active participation required for critical listening: “Listening is not the same as hearing.” The difference, she says, is consciousness. The San Antonio-based field recording obsessive Claire Rousay knows this distinction well. Her music tunes into the often overlooked frequencies of daily life: coins jostling, trains passing, friends swapping stoned soliloquies. A Softer Focus is a culmination of years releasing esoteric musique concrète. Here, she pairs that same meticulous approach to sound design with lush, melodic synths. Like its title suggests, her warm production casts otherwise unremarkable moments in a softer focus. —Arielle",
+      "Rank": 42,
+      "Genre": "Experimental"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/Cavalcade-1622047623-330x330.jpeg",
+      "Album_name": "Black Midi - Cavalcade (Rough Trade)",
+      "albumDescription": "It’s nice when a band lets themselves be as weird and wild as they want. It’s even nicer when those experiments take listeners to as many incredible places as Cavalcade. But there’s really nothing nice per se about Black Midi’s second album, even if sometimes its cataclysmic technical rave-ups veer into a serene calm. This is music that surprises and confounds well beyond the first listen — fantastically bizarre not for confrontation’s sake but because these are the sounds that really seem to be swirling around these people’s brains. Don’t be surprised if more than once you find yourself uttering, “Nice.” —Chris DeVille",
+      "Rank": 41,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/chriscorsanobillorcutt-1622042325-330x330.jpeg",
+      "Album_name": "Chris Corsano & Bill Orcutt - Made Out Of Sound (Palilalia)",
+      "albumDescription": "Bill Orcutt and Chris Corsano’s 2018 collaborative debut Brace Up! was a violent tangle of drums and guitar, a Tasmanian Devil whirlwind with sparks flying off it. They recorded that one in the same room. For follow-up Made Out Of Sound, Orcutt laid down a pair of guitar tracks over improv drum parts Corsano sent him from across the country, using the waveforms as a sort of dynamic map. The result is marvelously beautiful music that finds serenity within a state of nonstop turbulence. It is some of the most gorgeous chaos imaginable. —Chris",
+      "Rank": 40,
+      "Genre": "Experimental"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/thirdface-1622042493-330x330.jpeg",
+      "Album_name": "Thirdface - Do It With A Smile (Exploding In Sound)",
+      "albumDescription": "Do It With A Smile sounds like a series of flashbangs rocketing from a speeding car. On their debut album, Nashville quartet Thirdface establish themselves as a blistering hardcore punk band that’s not averse to getting experimental or nuanced. With searing guitar riffs and a chaotic rhythm section in “Villains!” and “Grasping At The Root,” it’s not far-fetched to compare Thirdface to the intersection of Converge and Unsane. Above it all are the growls of vocalist Kathryn Edwards, who formats lyrical themes of antiracism, feminism, and class rights as a call to action. The way they see it, rage is best repurposed into a community tool. —Nina Corcoran",
+      "Rank": 39,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/wildpink-1622042910-330x330.jpeg",
+      "Album_name": "Wild Pink - A Billion Little Lights (Royal Mountain)",
+      "albumDescription": "Wild Pink’s dreamy Americana is given the cinematic treatment on A Billion Little Lights, inspired by Carl Sagan’s Cosmos and the American West. Sprawling synths and sparkling strings conjure lush fields, soft wind, and star-filled skies. John Ross spiritually calls on American rock’s modern and classic poets — from Death Cab and War On Drugs to Tom Petty and Bruce Springsteen — to fill his idyllic country landscape with familiar souls. —Julia Gray",
+      "Rank": 38,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/theholdsteady-1622043092-330x330.jpeg",
+      "Album_name": "The Hold Steady - Open Door Policy (Positive Jams/Thirty Tigers)",
+      "albumDescription": "Nearly two decades into their existence, the Hold Steady are a part-time American rock institution, and you can forgive the members of the band for being more concerned with their various non-band career ventures. But on their eighth studio LP, the Hold Steady ease into the reliable pleasures of their sound, relying less on old-school theatrics and on Craig Finn’s splenetic dirtbag poetry. Instead, the band harnesses the full power of its assembled musicianship, making a rewarding, comforting grown-man rocker. There is still so much joy in what they do. —Tom",
+      "Rank": 37,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/leonvynehall-1622043377-330x330.jpeg",
+      "Album_name": "Leon Vynehall - Rare, Forever (Ninja Tune)",
+      "albumDescription": "On his last album, British producer Leon Vynehall earned near-universal acclaim by shifting his focus from the dancefloor to the concert hall. And on his new one, he collapses the distinction between the two entirely, crafting 10 protean electronic tracks that shapeshift from house music to ambient to experimental without ever losing their distinct sonic identity, reveling in the sheer possibility of sound. Rare, Forever is an album that plays like a greatest hits collection for an artist who’s still getting started, and that’s something rare indeed. —Peter Helman",
+      "Rank": 36,
+      "Genre": "House"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/harlecore-1622043517-330x330.jpeg",
+      "Album_name": "Danny L Harle - Harlecore (Mad Decent)",
+      "albumDescription": "Harlecore is a multi-story club run by Danny L Harle. Each floor has its own DJ spinning the PC Music forebear’s interpretations and mashups of various dance subgenres, spanning bubblegum pop, face-melting trance, cheesy Eurodance, dreamy synthscapes, and punchy techno. Harle’s imaginary characters, who are all credited on the album, bring their distinct rave atmospheres to the Harlecore lineup with the intensity and singularity of festival headliners. DJ Danny flirts with Zedd-slash-Avicii-era electronic, DJ Mayhem turbocharges hardstyle beats, DJ Ocean offers sweeping siren songs with vocals from Caroline Polachek, and MC Boing shout raps against car honks and and cartoon sound effects. If you’ve ever scoffed at EDM, this might be the place where you learn to love it. —Julia",
+      "Rank": 35,
+      "Genre": "House"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/sensational-1622043721-330x330.jpeg",
+      "Album_name": "Erika de Casier - Sensational (4AD)",
+      "albumDescription": "Sensational sounds like some long-lost classic from the turn of the millennium. Populated by shadowy, subtle beats and orchestral trills, Erika de Casier recalls the lush, big-budget era of R&B and pop music with a slinking confidence. de Casier writes songs about the things she wished she said and creates a new reality for herself, one that’s understated but powerfully evocative. —James",
+      "Rank": 34,
+      "Genre": "R&B"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/godspeed-1622043864-330x330.jpeg",
+      "Album_name": "Godspeed You! Black Emperor - G_d's Pee AT STATE'S END! (Constellation)",
+      "albumDescription": "At first, the path to optimism appears counterintuitive. To recognize something better is possible, you must acknowledge the ways in which the past and present have failed. Godspeed You! Black Emperor know this well, of course, but after decades of radical activism verging on nihilism, their seventh album feels surprisingly understated and hopeful. G_d’s Pee AT STATE’S END! spans four suites of fuzzy radio static, marching downbeats, and droning guitars, all of which build towards a sun-drenched, gorgeous burst of post-rock encapsulating the feeling of overcoming defeat. For the first time, GY!BE catalog the recognition that a long journey is concluding and aid is within sight. The album’s closing drone segment suggests the inevitable — another tedious trek is, as always, around the bend — but it fends it off for a few extra minutes, allowing listeners the opportunity to rejoice, recollect themselves, and prepare for the next chapter with clear heads and full hearts. —Nina",
+      "Rank": 33,
+      "Genre": "Experimental"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/civic-1622044109-330x330.jpeg",
+      "Album_name": "Civic - Future Forecast (Flightless)",
+      "albumDescription": "There is something so instantly likable about a band like Civic, who don’t exactly sound like any particular trend or subgenre or scene of the moment, but like some platonic ideal distillation of varying strains of furious, urgent, infectious rock music. On their debut Future Forecast, the Melbourne group hit the ground running with songs that burn and rush and sputter, and almost never lose sight of a constant, emphatic punk propulsion. When you get to highlights like “Tell The Papers” and “Clone,” you realize Civic are a band capable of gloriously unholy and raw music, but they also bring the hooks to lodge these songs in your head. —Ryan",
+      "Rank": 32,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/yasminwilliams-1622044327-330x330.jpeg",
+      "Album_name": "Yasmin Williams - Urban Driftwood (SPINSTER)",
+      "albumDescription": "It’s hard to believe Urban Driftwood was created by one person. Armed with a deep love of hip-hop and a kalimba-wielding guitar, Yasmin Williams navigates her second album like she’s describing a fantasy folk world of layered rhythms, dexterous melodies, and wordless emotions. It’s airy and vibrant, and each passage feels like rounding a corner to stumble upon another scenic spot in nature. From “Jarabi” to “Swift Breeze,” these songs allow listeners to accompany the 24-year-old guitarist as she explores untouched corners of folk and gets lost in its natural, harmonious beauty. The fact that she essentially reinvented the solo guitar genre in the process almost seems like an afterthought. —Nina",
+      "Rank": 31,
+      "Genre": "Folk"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/drycleaning-1622044523-330x330.jpeg",
+      "Album_name": "Dry Cleaning - New Long Leg (4AD)",
+      "albumDescription": "Listening to the wry witticisms of Florence Shaw is a bit like looking at a Robert Rauschenberg collage: Common objects brush against geopolitical motifs, snappy advertisements blend with existential musings. Her ramblings about hot dogs and bouncy balls are the perfect response to a year spent alone with our thoughts as she weaves vignettes that feel like cabin fever dreams with the same hypnotically flat tone. It’s precisely her sharp, sometimes jarring, often hilarious lyrics that make New Long Leg, Dry Cleaning’s full-length debut, such an absorbing listen, dynamic post-punk serving as a worthy foil to Shaw’s detached delivery. —Arielle",
+      "Rank": 30,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/sonsofkemet-1622044857-330x330.jpeg",
+      "Album_name": "Sons Of Kemet - Black To The Future (Impulse!)",
+      "albumDescription": "Saxophonist and clarinetist Shabaka Hutchings has positioned himself at the forefront of London’s thriving jazz scene, leading not one but three different groups at the vanguard of genre-blurring Black art. With his Sons Of Kemet quartet — rounded out by Theon Cross on tuba and drummers Edward Wakili-Hick and Tom Skinner on percussion, supplemented by various guest vocalists — Hutchings confronts our current cultural moment with protest music that works just as well as party music, its fiery political urgency matched only by the visceral immediacy of its undeniable street-parade grooves. —Peter",
+      "Rank": 29,
+      "Genre": "Jazz"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/spellling-1622045065-330x330.jpeg",
+      "Album_name": "SPELLLING - The Turning Wheel (Sacred Bones)",
+      "albumDescription": "As SPELLLING, Chrystia Cabral has been making darkly alluring experimental pop for years. The Turning Wheel maintains the darkness, the allure, and Cabral’s experimental touch, yet she has turned up the pop quotient significantly here. Even on a straight-up haunted song like “Queen Of Wands,” her soprano contorts into some wonderfully absurd blend of Kate Bush, Minnie Riperton, and Britney Spears. “Magic Act” boasts the kind of guitar solo that ruled the radio in 1986. And when things veer toward a brighter sound as on “Little Deer” or “Revolution,” airplay for SPELLLING herself almost feels within reach. —Chris",
+      "Rank": 28,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/storefrontchurch-1622045335-330x330.jpeg",
+      "Album_name": "Storefront Church - As We Pass (Sargent House)",
+      "albumDescription": "Lukas Frank is a Southern California lifer, and his music as Storefront Church sounds like Hollywood’s dark side. Debut album As We Pass is expansive and ominous enough to fit in on Sargent House, but its heaviness is more emotional than sonic, like Thom Yorke washing up on Chris Isaak’s retro noir coastline. When Storefront Church does rock out, as on “Faction From Under The Grove,” it could almost pass for pop if not for that lingering sense of gloom that haunts the album’s every corner. Don’t be surprised if many of the filmmakers in Frank’s hometown come knocking. —Chris",
+      "Rank": 27,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/headofroses-1622045527-330x330.jpeg",
+      "Album_name": "Flock Of Dimes - Head Of Roses (Sub Pop)",
+      "albumDescription": "We all know Jenn Wasner doesn’t miss, but her new Flock Of Dimes album Head Of Roses is particularly masterful. Her first solo LP in half a decade, Head Of Roses catalogs a relationship’s crumbling demise and Wasner’s transformative self-realizations along the way. It’s a deeply personal work, and Wasner uses her full array of songwriting acumen. From the scathing churn of “Price Of Blue” to fragile reckonings like “Lightning” or dreamlike yearning in “One More Hour,” she traces the mechanics of heartbreak and the arc of grief. She emerges from loss not just with a new understanding of herself, but one of the best albums of her career. —Ryan",
+      "Rank": 26,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/pompomsquad-1622047453-330x330.jpeg",
+      "Album_name": "Pom Pom Squad - Death Of A Cheerleader (City Slang)",
+      "albumDescription": "Mia Berrin has been the lead cheerleader of Pom Pom Squad for a while now, but that role is intensified on Death Of A Cheerleader. This debut is a rollercoaster, invigorating and immersive throughout, and you might need a breather once it’s over. From the old-timey, indulgently depressed anthem “Crying” to the punky, Hole-like track “Shame Reactions,” so much is packed into this record, all of it unhinged and cathartic. It’s the best post-pandemic pick-me-up. —Danielle",
+      "Rank": 25,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/katykirby-1622047851-330x330.jpeg",
+      "Album_name": "Katy Kirby - Cool Dry Place (Keeled Scales)",
+      "albumDescription": "Cool Dry Place has some of the catchiest riffs of the year, but it etches itself into your heart with downplayed songs that Katy Kirby sneaks in between them. Like sticky burrs whose thorns are sharp enough to cling to you but gentle enough to never draw blood, Kirby’s quietest tracks are unassuming, persistent, and intricately designed. Perhaps the most stirring of the bunch is “Secret Language,” a gentle folk number that stacks pitch-perfect falsettos atop twinkling piano. No wonder she uses a Leonard Cohen nod to open the track; Kirby has a similarly poetic approach to the subtleties of life’s shadows, and the whispered ways she describes them always feels comforting. —Nina",
+      "Rank": 24,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/portrayalofguilt-1622048069-330x330.jpeg",
+      "Album_name": "Portrayal Of Guilt - We Are Always Alone (Closed Casket Activities)",
+      "albumDescription": "The sophomore record from Portrayal Of Guilt covers a lot of ground in under 30 minutes: black metal’s pummeling guitars and blast beats, chugging riffs that beckon hardcore lifers to the pit, and, most deafeningly, Matt King’s shredded screams. The band is often summarized by these qualities alone — what some have dubbed “blackened screamo” — but We Are Always Alone innovates beyond genre tropes. Electronic atmospherics add an industrial spaciousness to their sound; melodic chord progressions and clean vocals crossover into emo. It’s a fool’s errand to try to classify the Austin punks, though: If King’s blistering lyrics are any indication, they can barely find meaning in life, let alone labels. —Arielle",
+      "Rank": 23,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/madlib-1622048373-330x330.jpeg",
+      "Album_name": "Madlib - Sound Ancestors (Madlib Invazion)",
+      "albumDescription": "In a career defined by brilliant collaborations, a Madlib beat tape is a rare treasure. That said, given how often he’s ceded or shared the spotlight, it’s unsurprising that despite its solo billing Sound Ancestors is another team effort. Fellow sonic visionary Four Tet pieced together Madlib’s inspired scraps into an invigorating collage of rhythms, textures, and displaced hooks that plays like a low-stakes throwback to cratedigger classics like DJ Shadow’s The Private Press and the Avalanches’ Since I Left You. It puts “chill beats to study to” to shame. —Chris",
+      "Rank": 22,
+      "Genre": "Hip Hop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/jazminesullivan-1622048601-330x330.jpeg",
+      "Album_name": "Jazmine Sullivan - Heaux Tales (RCA)",
+      "albumDescription": "Depending on your perspective on hookup culture, Jazmine Sullivan’s latest album Heaux Tales can be empowering or triggering; the belty R&B vocalist leads a crusade of Black women who unabashedly share vignettes of their intimate and forlorn moments in love. Sullivan pierces the soul with narratives of sexual desires, insecurities, and sponsoring men without shame. Like fellow progressive R&B acts Ari Lennox and H.E.R, she gives voice to women who are still in search of their self-worth, even if that means falling victim to complex temptations. —Jaelani",
+      "Rank": 21,
+      "Genre": "R&B"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/closer-1622048930-330x330.jpeg",
+      "Album_name": "Closer - Within One Stem (Lauren)",
+      "albumDescription": "When Ryann Slauson sings, they sound like they’re having words violently ripped from them, like they’re trying to keep those sounds inside and they just can’t. Slauson’s band Closer released Within One Stem after the members of the band all moved away from one another, and the LP reflects a feeling of being lost and decentered. Closer’s version of screamo is dynamic and wide-ranging and frequently very pretty. But even at their quietest, Slauson sounds like they’re in the middle of a hurricane, desperately trying to find their footing. —Tom",
+      "Rank": 20,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/machhommy-1622049164-330x330.jpeg",
+      "Album_name": "Mach-Hommy - Pray For Haiti (Griselda)",
+      "albumDescription": "“They need to know we the dopest. Crackers keep the lifestyle in their eye like a young Lisa Lopes.” That crafty piece of language, from the New Jersey rapper Mach-Hommy, is a slick TLC punchline, but it’s also a statement of distrust from a man who has no reason to feel anything else. Mach-Hommy, one of rap’s reigning enigmas, keeps the world at arm’s length, but he’s such a compelling figure that you can’t help but want to get closer. Reuniting with his old comrade Westside Gunn, Hommy has made a deeply idiosyncratic record that’s still the most accessible thing he’s ever done. —Tom",
+      "Rank": 19,
+      "Genre": "Hip Hop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/jubilee-1622049485-330x330.jpeg",
+      "Album_name": "Japanese Breakfast - Jubilee (Dead Oceans)",
+      "albumDescription": "Between her increasingly successful music career and the acclaim of her memoir Crying In H Mart (soon to be a major motion picture!), Michelle Zauner has become the latest contemporary indie musician poised to make the leap into mainstream stardom. If there is any justice in this world, the new Japanese Breakfast album Jubilee will take her there. Where so much of Zauner’s creative output has been about processing grief and trauma through art, Jubilee is instead an explosive reclamation of joy. It’s a big, bright album of sleek, shimmering pop songs, signifying yet another level-up in scope without sacrificing any emotional specificity or depth. —Peter",
+      "Rank": 18,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/blackcountrynewroad-1622049622-330x330.jpeg",
+      "Album_name": "Black Country, New Road - For The First Time (Ninja Tune)",
+      "albumDescription": "On paper, Black Country, New Road’s debut album For The First Time is like a caricature of a critical darling, with klezmer breakdowns, spasmic free jazz, and lyrics like “I told you I loved you in front of Black Midi” and “It’s a one-size-fits-all hardcore cyber-fetish early noughties zine.” On speakers, it’s a work of post-rock theatre. Songs play out in multiple acts, in scenes and monologues, equal parts satire and spectacle. Isaac Wood takes on different characters: his girlfriend’s rich father, a dudebro snob. It’s sarcastic, uncomfortable, self-aware. And by the time he shouts, “Leave Kanye out of this,” you’re in on the bit. —Julia",
+      "Rank": 17,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/squid-1622049917-330x330.jpeg",
+      "Album_name": "Squid - Bright Green Field (Warp)",
+      "albumDescription": "Squid play the kind of twitchy, talky post-punk that has always been a shortcut to critical acclaim, but they approach their perennially hip influences with deranged mad-scientist glee. Bright Green Field is thus one of the freshest, most terrifyingly fun rock albums of the year. A song that could easily descend into LCD Soundsystem cosplay instead explodes into a harsh feral rave-up. Another one falls off a cliff into the uncanny valley and remains there indefinitely, like a staring contest with the void. The rhythms are so tight they could snap; ditto Ollie Judge, the raving narrator these contorted, volatile grooves deserve. —Chris",
+      "Rank": 16,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/homevideo-1622050146-330x330.jpeg",
+      "Album_name": "Lucy Dacus - Home Video (Matador)",
+      "albumDescription": "Lucy Dacus is a historian, as she so helpfully defined herself on her sophomore album. On its follow-up Home Video she practices that profession on herself, looking back at her own childhood. With sentimental hooks and moments of blistering revelation, she uses her canny knack for wry observations to create an album that glows incandescent in the way she maps out all the traumas and bright spots that made her who she is today. —James",
+      "Rank": 15,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/iceage-1622050274-330x330.jpeg",
+      "Album_name": "Iceage - Seek Shelter (Mexican Summer)",
+      "albumDescription": "In the 10 years since their landmark debut New Brigade, Iceage have never stopped evolving. Every one of their releases could be described as their most ambitious and accessible album yet, and Seek Shelter is no exception, full of their biggest and most anthemic rock songs to date. Frontman Elias Bender Rønnenfelt has played the part of bellowing punk firebrand, haunted balladeer, louche troubadour, and brooding rock star, embodying all of them with aplomb. And here, with the help of producer Pete “Sonic Boom” Kember, he steps further into the light than ever before, inviting the possibility of hope and salvation into Iceage’s apocalyptic world. —Peter",
+      "Rank": 14,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/carnage-1622050399-330x330.jpeg",
+      "Album_name": "Nick Cave & Warren Ellis - Carnage (Goliath)",
+      "albumDescription": "Carnage — an album Nick Cave and Warren Ellis made quickly during a quarantine respite, without the rest of the Bad Seeds — may feel smaller than something like Ghosteen. But in these eight songs, Cave stares into the nothingness on “Hand Of God,” he rumbles through the “Old Time” with what could be a classic Bad Seeds track, he makes a rare topical statement with the potent “White Elephant,” he wrings impossible celestial beauty from “Shattered Ground,” and he mulls over the isolation and stillness we all experienced in the last year. Cave is at the height of his powers as a writer, filtering everything through a lens all his own — giving us another resounding collection in what has become a staggering, essential body of recent work. —Ryan",
+      "Rank": 13,
+      "Genre": "Experimental"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/arabstrap-1622050627-330x330.jpeg",
+      "Album_name": "Arab Strap - As Days Get Dark (Rock Action)",
+      "albumDescription": "As Days Get Dark might be Arab Strap’s first new album in 16 years, but the Scottish duo hasn’t missed a beat. Even as young men, Aidan Moffat and Malcolm Middleton came across as world-weary and tired, in a perpetual state of hangover. Age has only sharpened their reliably caustic wit — and their pathos. Moffat, with his dusky sing-speak, remains a preeminent chronicler of humanity’s ugliest moments: tempering the debauchery and sleaze with clear-eyed honesty and wry humor, sifting through the muck to uncover the glimmering moments of tenderness and beauty lurking beneath. —Peter",
+      "Rank": 12,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/littleoblivions-1622050766-330x330.jpeg",
+      "Album_name": "Julien Baker - Little Oblivions (Matador)",
+      "albumDescription": "There’s a lot to unpack when it comes to Julien Baker’s third, and most heartbreaking, album Little Oblivions. Consider its opening lines: “Blacked out on a weekday/ Still, something that I’m trying to avoid/ Start asking for forgiveness in advance.” That greeting sets the tone for what’s to come — a lot of reckoning with guilt, forgiveness, responsibility, and navigating what it means to be a person. The baggage is heavy, but Baker is calm and sincere, spilling her guts in an admirable way. It’s a timeless piece of music that will continue to comfort anyone who’s ever thought about how hard life can be. —Danielle",
+      "Rank": 11,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/ULTRAPOP-1622050955-330x330.jpeg",
+      "Album_name": "The Armed - ULTRAPOP (Sargent House)",
+      "albumDescription": "On their third album, the Armed present a maximalist alterna radio. There are no commercials, no breaks, and lots of static. ULTRAPOP plunges you into a dark, refreshing rabbithole. The album opens with a hypnotic spell, twinkling synths punctuated by screeches and bass bombs. Beneath towering arrangements, with reverberating wall-to-wall shouts and fiery guitars, are tight, three-minute pop songs. (The album’s fullness can be partially owed to a laundry list of contributions layered on top of the Detroit collective, from artists like Mark Lanegan and Queens Of The Stone Age’s Troy Van Leeuwen.) It’s heavy and immediate, enough to break through an overstimulated modern mind and a stagnant pop landscape. —Julia",
+      "Rank": 10,
+      "Genre": "Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/superwolves-1622051125-330x330.jpeg",
+      "Album_name": "Matt Sweeney & Bonnie 'Prince' Billy - Superwolves (Drag City)",
+      "albumDescription": "Sixteen years after making their cult-beloved collaboration Superwolf, old friends and indie lifers Matt Sweeney and Will Oldham have reassembled for another album of sprawling reverie. The two fit together like spoons, with Oldham’s craggy tenor and elegantly strange phrasings nestling comfortably inside the psychedelic languor of Sweeney’s guitar. There are beautifully silly moments on Superwolves, and there are also bits of shining emotional insight powerful enough to send you spinning. It would be nice if we didn’t have to wait another four presidential elections before Superwolveses, but we’ll take what we can get. —Tom",
+      "Rank": 9,
+      "Genre": "Folk"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/homeiswhere-1622051367-330x330.jpeg",
+      "Album_name": "Home Is Where - i became birds (Knifepunch)",
+      "albumDescription": "I Became Birds is held together by a cry. Home Is Where’s official debut LP comes with a parade of harmonicas, strings, horns, and acoustic guitars, as Brandon MacDonald leads baton-in-hand. MacDonald has said the album is about their gender transition, retold in breathless images and musings, whispers mutating into guttural yelps. They bemoan “the treachery of anatomy,” wonder “how long has it been since a president got assassinated,” and daydream, “Look at all the dogs, I wanna pet every puppy I see.” It sounds familiar, not just because of the Florida band’s folk, emo, punk, and hardcore influences. You can feel it in your body, resonating through your chest. —Julia",
+      "Rank": 8,
+      "Genre": "Punk Rock"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/haram-1622051563-330x330.jpeg",
+      "Album_name": "Armand Hammer & The Alchemist - Haram (Backwoodz Studioz)",
+      "albumDescription": "The Alchemist’s hot streak continues. This time he’s teamed with billy woods and Elucid, who, either in Armand Hammer or otherwise, have been cranking out strong material themselves. Haram is a simmering, contradictory cloud of an album — woods’ and Elucid’s idiosyncratic flows and disembodied voices full of earthen gravel, production that sounds like a broken-down implosion of the kind of snappy, classicist beats Alchemist has been bringing to some of his other recent projects. The head fog is part of the point, woods and Elucid grappling with society’s ills against a fittingly disorienting backdrop. Haram maintains Armand Hammer’s experimental bent, but at the same time grounds them just a bit — enough to make the most vital rap album of the year. —Ryan",
+      "Rank": 7,
+      "Genre": "Hip Hop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/entertainmentdeath-1622051835-330x330.jpeg",
+      "Album_name": "Spirit Of The Beehive - ENTERTAINMENT, DEATH (Saddle Creek)",
+      "albumDescription": "Philly’s Spirit Of The Beehive have a way of pulling people into their ruckus. Listening to their music is like going to one of those 4-D movie theaters, where little kids cry because the screen is pretty much attacking the audience’s senses. It’s invasive in a way, but diving into ENTERTAINMENT, DEATH is an irresistible choice. The best contribution from Zack Schwartz, who’s known for cult-followed emo band Glocca Morra and his solo project draag me, is stepping out of his role as frontman and giving in to an incredible level of collaboration. ENTERTAINMENT, DEATH is a collage, and each member adds different, idiosyncratic sounds and ideas that make up a fascinating whole. —Danielle",
+      "Rank": 6,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/cassandrajenkins-1622052004-330x330.jpeg",
+      "Album_name": "Cassandra Jenkins - An Overview On Phenomenal Nature (Ba Da Bing!)",
+      "albumDescription": "An Overview On Phenomenal Nature is not a big album. Thirty-two minutes, seven tracks — one of them a sprawling ambient epilogue. But as its title might suggest, Cassandra Jenkins makes this relatively brief statement one full of ambition, emotional complexity, and existential weight. Songs like “New Bikini” and “Ambiguous Norway” feel as if they are coming into existence right before you. Its standout track “Hard Drive” symbolizes the power of what Jenkins is doing here — pinpointing moments small and cataclysmic, banal and profound, and piecing how they all come together into something whole. With saxophone keens and invitations to breathe, she creates a space where we, too, can make sense of life’s fragments. —Ryan",
+      "Rank": 5,
+      "Genre": "Country"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/promises-1622052213-330x330.jpeg",
+      "Album_name": "Floating Points, Pharoah Sanders, & The London Symphony Orchestra - Promises (Luaka Bop)",
+      "albumDescription": "A spectral piano motif twinkles into existence and vanishes into the silence. A saxophone trills and coos as if arising from slumber. An orchestra colors the edges of the frame with rising drama. Promises could have been so academic — titans of classical, avant-jazz, and experimental electronica delivering “a continuous piece of music in nine movements.” But as Pharoah Sanders uncorks the anguish of decades and the symphony surges from a drizzle of memory to a thunderstorm of feeling, this trans-generational meditation bypasses the head and aims directly at the heart. It’s a goddamn ballet — graceful, immersive, and awe-inspiring. —Chris",
+      "Rank": 4,
+      "Genre": "Jazz"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/deacon-1622052303-330x330.jpeg",
+      "Album_name": "serpentwithfeet - Deacon (Secretly Canadian)",
+      "albumDescription": "Josiah Wise’s experimental avant-gospel has always trended rather Old Testament, awesome and terrifying in its operatic intensity and its visceral depiction of the ravages of love. But on the new serpentwithfeet album, he seems to have discovered a kinder, gentler form of religion and romance. Deacon is a beautifully specific portrait of queer Black intimacy in all its forms, celebrating the sensual magic to be found in the mundane details of everyday domesticity. It’s a surprisingly subtle work from an artist known for his baroque excess, a warm sigh of contentment that feels radical in its open-hearted simplicity. —Peter",
+      "Rank": 3,
+      "Genre": "R&B"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/ignorance-1622052479-330x330.jpeg",
+      "Album_name": "The Weather Station - Ignorance (Fat Possum)",
+      "albumDescription": "In a move perhaps predicted by her choice of band name, the Weather Station’s Tamara Lindeman eventually turned the focus of her perceptive songwriting to the literal environment surrounding her. Ignorance, Lindeman’s fifth album, is fixated on the climate crisis and the current state of our world, told in apocalyptic slow-moving shadows that sound like dusk closing in on a society in peril. It contains some of her most profound lyrical portraits of people trying to exist in the last gasps of humanity and it also features her most intricate musical arrangements yet, relaxed and sprawling and constantly sweeping and searching for glimmers of hope. She’s wildly successful in that regard, at least, as Ignorance stands as an invigorating and poignant chapter in an already impressive career. —James",
+      "Rank": 2,
+      "Genre": "Pop"
+    },
+    {
+      "Img": "https://static.stereogum.com/uploads/2021/05/fiddlehead-1622052698-330x330.jpeg",
+      "Album_name": "Fiddlehead - Between The Richness (Run For Cover)",
+      "albumDescription": "In the summer of 2019, the reunited Boston hardcore band Have Heart played for something like 8,000 people on a parking lot in Worcester, Massachusetts. By some estimates, this was the biggest DIY hardcore show of all time. Have Heart broke up in 2009, and five years later, singer Pat Flynn and drummer Shawn Costa started up Fiddlehead. Fiddlehead don’t sound anything like Have Heart, but all the things about Have Heart that brought thousands of people out to a parking lot in Worcester — the veins-popping passion, the soaring hooks, the humble swagger — are fully evident in Fiddlehead’s second album Between The Richness.\n\nFiddlehead’s sound is a muscular, driven take on post-hardcore. The guitars sparkle and zoom, the rhythm section churns furiously, and Flynn delivers lines in a hoarse, wracked bellow. The songs on Between The Richness are about heavy things: becoming a father, keeping a marriage together, mourning the loss of a parent. Fiddlehead give dimension to those feelings, slashing them out with drive and energy and a powerful sense of group catharsis. These songs are personal, but they sound bigger than that. They sound communal. —Tom",
+      "Rank": 1,
+      "Genre": "Punk Rock"
+    }
+  ],
+  "savedalbums":[
+    {
+      
+    }
+  ]
+
+}
+
+
+
