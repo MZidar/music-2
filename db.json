@@ -351,13 +351,21 @@
       "Genre": "Punk Rock"
     }
   ],
-  "savedalbums":[
+  "savedalbums": [
     {
-      
+      "name": "Iceage - Seek Shelter (Mexican Summer)",
+      "image": "https://static.stereogum.com/uploads/2021/05/iceage-1622050274-330x330.jpeg",
+      "id": 0.3283474468760941
+    }
+  ],
+  "albumsadded": [
+    {
+      "rank": 0.5418472884481733,
+      "title": "Revolver by The Beatles",
+      "genre": "Rock",
+      "description": "It's Revolver and The Beatles. What more do you need to say?",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg",
+      "id": 1
     }
   ]
-
 }
-
-
-
